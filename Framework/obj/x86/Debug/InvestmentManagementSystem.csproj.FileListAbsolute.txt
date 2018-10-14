@@ -1,0 +1,57 @@
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\InvestmentManagementSystem.exe.config
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\InvestmentManagementSystem.exe
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\InvestmentManagementSystem.pdb
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\office.dll
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\Microsoft.Vbe.Interop.dll
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\office.xml
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Properties.Resources.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.csproj.GenerateResource.Cache
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.exe
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.pdb
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.MDIInvestmentManagementSystemUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.FormBase.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.SelectMonthUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.DateTimePickerUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.KeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.LookUpValueUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.MessageBoxInputUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.MessageBoxUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.NumericKeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.SearchesUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.SearchUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.Global.YesOrNoUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.Details.InvestmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.InvestmentsUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.Details.InvestmentPlacementDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PlacementDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.PlacementDispositionUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.ForBankSendOutUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.ForCOOApprovalUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.ForGLRecordingUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Report.InvestmentReportUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Systems.AutoUpdateOnEmailReplyUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.csprojResolveAssemblyReference.cache
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpInvestmetUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.ApplicationObjects.UserInterfaces.Transactions.Details.InsertMaturedPlacementsUI.resources
+C:\Users\jplarisan\Desktop\InvestmentManagementSystem\Framework\Main\InvestmentManagementSystem.exe.config
+C:\Users\jplarisan\Desktop\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.exe
+C:\Users\jplarisan\Desktop\InvestmentManagementSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.pdb
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\InvestmentManagementSystem.exe.config
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.exe
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\InvestmentManagementSystem.pdb

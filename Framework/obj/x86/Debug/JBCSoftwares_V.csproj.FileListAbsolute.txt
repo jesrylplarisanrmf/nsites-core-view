@@ -1,0 +1,531 @@
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchasesJournalUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.SalesOrderUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJBCSoftwares_VUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe.config
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.SendToEmailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.InventoryUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC Softwares -FINAL\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe.config
+D:\PERSONAL FILES\Softwares-Active\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares-Active\JBC Softwares -FINAL\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe.config
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.InventoryUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchasesJournalUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.SalesOrderUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJBCSoftwares_VUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\Softwares-Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.DiscountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SalesPersonDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.StockCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashDisbursementTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpPriceQuotationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpPurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpPurchaseRequestUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpSalesOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpStockTransferOutUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PriceQuotationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseOrderDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseRequestDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseRequestStockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashReceiptTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.SalesOrderDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferInDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferInItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferOutDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferOutItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PriceQuotationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchaseRequestUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchasesJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashDisbursementVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.SalesVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashReceiptVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJBCSoftwares_VUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.SalesOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockTransferInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockTransferOutUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AccountReceivableReportUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AccountPayableReportUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.CheckIssuanceUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.StatementOfAccountUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.JournalEntryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.JournalEntrysUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangeUserPasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC ERP Softwares - Euroblade\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.DiscountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.ModeOfPaymentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SalesPersonDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AccountPayableReportUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AccountReceivableReportUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.CheckIssuanceUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.JournalEntryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.StockCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.StatementOfAccountUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashDisbursementTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CloseCashierPeriodUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpPriceQuotationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpPurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpPurchaseRequestUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpSalesOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpStockTransferOutUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.OpenCasherPeriodUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.OtherFunctionsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PriceQuotationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseOrderDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseRequestDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseRequestStockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashReceiptTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.RenderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.ReturnedItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.SalesOrderDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.SecurityUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockQtyUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferInDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferInItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferOutDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockTransferOutItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.POSOrderingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PriceQuotationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchaseRequestUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.PurchaseJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashDisbursementVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.SalesVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.CashReceiptVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.PurchaseVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.JournalEntrysUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJBCSoftwares_VUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangeUserPasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.SalesOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockTransferInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockTransferOutUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Transactions.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.ErrorMessageUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.CashierPeriodsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.SalesInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Reports.ReturnedItemsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\JBCSoftwares_V.exe.config
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ListFormAccountingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.ListFormHRISUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CategoryDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CustomerDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.ListFormInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.InventoryCancelReasonUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.ListFormPayrollUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ListFormProcurementUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ProcurementDiscountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.EmployeeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.LocationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.PurchaseInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.ListFormSalesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.ModeOfPaymentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesPersonDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.StockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.SupplierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.MainAccountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.UnitDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.ProcurementCancelReasonUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.CashierPeriodsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.CheckIssuanceUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.JournalEntryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.ReorderLevelUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.POSTransactionsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.ReturnedItemsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.SalesInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockCardUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockInventoryUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesDiscountDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesStockTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesCancelReasonUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.CloseCashierPeriodUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.LookUpPriceQuotationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpPurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.LookUpPurchaseRequestUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpSalesOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpStockTransferOutUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.OpenCasherPeriodUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.OtherFunctionsUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PriceQuotationDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseOrderDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestStockDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.RenderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.ReturnedItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesOrderDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SecurityUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.StockQtyUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.ProcurementStockTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.POSOrderingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.PriceQuotationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseRequestUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.PurchaseJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.SalesVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.PurchaseVoucherUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.JournalEntrysUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BankDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ReportViewerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ListFormSystemUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJBCSoftwares_VUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangeUserPasswordUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.AccountingCancelReasonUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesOrderUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockAdjustmentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockReceivingUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferInUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferOutUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockWithdrawalUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Global.ErrorMessageUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.exe
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.pdb
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.FindCustomerListUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.FindModeOfPaymentUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.AddDiscountUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.CashierDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BuildingDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PQStockTransactionDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.EquipmentDetailUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.SOReceivableReportUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.StatementOfAccountUI.resources
+D:\PERSONAL FILES\Softwares- JBC Active\JBC SOFTWARES\JBC Softwares\JBC Softwares - V - V2.0\Framework\obj\x86\Debug\JBCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.POPayableReportUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\JBCSoftwares_V.exe.config
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.exe
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JBCSoftwares_V.pdb

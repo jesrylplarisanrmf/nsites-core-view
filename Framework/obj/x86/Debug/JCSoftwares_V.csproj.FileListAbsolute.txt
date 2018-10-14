@@ -1,0 +1,504 @@
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\JCSoftwares_V.exe.config
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\JCSoftwares_V.exe
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\JCSoftwares_V.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BuildingDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ListFormAccountingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.ListFormHRISUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CategoryDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ClassificationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CustomerDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.ListFormInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.InventoryCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.ListFormPayrollUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ListFormProcurementUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ProcurementDiscountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.EmployeeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.LocationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.PurchaseInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.CashierDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.ListFormSalesUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.ModeOfPaymentDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesPersonDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.StockDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.SupplierDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.MainAccountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.UnitDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.ProcurementCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.POPayableReportUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.SOReceivableReportUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.EquipmentDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.CashierPeriodsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.CheckIssuanceUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.JournalEntryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.ReorderLevelUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.POSTransactionsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.ReturnedItemsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.SalesInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockCardUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesDiscountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.AddDiscountUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.FindCustomerListUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.FindModeOfPaymentUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PQStockTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesStockTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.StatementOfAccountUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.CloseCashierPeriodUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.LookUpPriceQuotationUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpPurchaseOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.LookUpPurchaseRequestUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpSalesOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpStockTransferOutUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.OpenCasherPeriodUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.OtherFunctionsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PriceQuotationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseOrderDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestStockDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.RenderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.ReturnedItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesOrderDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SecurityUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.StockQtyUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.ProcurementStockTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.POSOrderingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.PriceQuotationUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseRequestUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.PurchaseJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.SalesVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.PurchaseVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.JournalEntrysUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BankDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ReportViewerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ListFormSystemUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJCSoftwares_VUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangeUserPasswordUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupListUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.AccountingCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockAdjustmentUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockReceivingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferInUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferOutUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockWithdrawalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.ErrorMessageUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.exe
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JBC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - V\Framework\Main\JCSoftwares_V.exe.config
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.exe
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\JCSoftwares_V.exe.config
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.exe
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\JCSoftwares_V.exe
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\JCSoftwares_V.pdb
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BuildingDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ListFormAccountingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.ListFormHRISUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CategoryDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ClassificationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CustomerDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.ListFormInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.InventoryCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.ListFormPayrollUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ListFormProcurementUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ProcurementDiscountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.EmployeeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.LocationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.PurchaseInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.ListFormSalesUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesPersonDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.StockDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.SupplierDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.MainAccountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.UnitDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.ProcurementCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.POPayableReportUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.SOReceivableReportUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.EquipmentDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.CheckIssuanceUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.JournalEntryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.ReorderLevelUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockCardUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesDiscountDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PQStockTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesStockTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.StatementOfAccountUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.LookUpPriceQuotationUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpPurchaseOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.LookUpPurchaseRequestUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpSalesOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpStockTransferOutUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PriceQuotationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseOrderDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestStockDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesOrderDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.ProcurementStockTransactionDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.PriceQuotationUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseRequestUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.PurchaseJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.SalesVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.PurchaseVoucherUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.JournalEntrysUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BankDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ReportViewerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ListFormSystemUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJCSoftwares_VUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangeUserPasswordUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupListUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.AccountingCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesOrderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockAdjustmentUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockReceivingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferInUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferOutUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockWithdrawalUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.ErrorMessageUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ListFormLendingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientFamilyMemberDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientPersonalReferenceDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientOwnedPropertyDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientSourceOfIncomeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientCreditExperienceDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.AreaDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.BranchDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.CollectorDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ProductDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ZoneDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.Details.LoanApplicationDetailsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.LoanApplicationUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.Details.LendingCancelReasonUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.EndOfDayUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.DownloadDCRSUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.UploadCollectionsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.Details.EndOfDayDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Reports.CashFlowSummaryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Masterfiles.ListFormPOSUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Masterfiles.CashierDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Masterfiles.ModeOfPaymentDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.AddDiscountUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.FindCustomerListUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.FindModeOfPaymentUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.CloseCashierPeriodUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.OpenCasherPeriodUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.OtherFunctionsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.RenderUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.ReturnedItemDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.SecurityUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.StockQtyUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.POSOrderingUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.CashierPeriodsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.POSTransactionsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.ReturnedItemsUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.SalesInventoryUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.DatabaseBackupRestoreUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.EmploymentTypeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.DepartmentDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.DesignationDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.LeaveTypeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.HolidayDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.EarningTypeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.DeductionTypeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.TaxTypeDetailUI.resources
+D:\PERSONAL FILES\JC SOFTWARES - NEW\JC Softwares CLIENTNAME\JC Softwares - V\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.IncomeTaxTableDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\JCSoftwares_V.exe.config
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.exe
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.pdb
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\JCSoftwares_V.exe
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\JCSoftwares_V.pdb
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\System.Net.Http.dll
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\System.Net.Http.Formatting.dll
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\Newtonsoft.Json.dll
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\System.Net.Http.xml
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\Main\System.Net.Http.Formatting.xml
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.csprojResolveAssemblyReference.cache
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BuildingDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ListFormAccountingUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.DepartmentDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.DesignationDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.DeductionTypeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.EarningTypeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.EmploymentTypeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.HolidayDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.LeaveTypeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.AreaDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.BranchDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientCreditExperienceDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientFamilyMemberDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientOwnedPropertyDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientPersonalReferenceDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ClientSourceOfIncomeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.CollectorDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ListFormLendingUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ProductDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Masterfiles.ZoneDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Reports.CashFlowSummaryUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.Details.EndOfDayDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.Details.LendingCancelReasonUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.Details.LoanApplicationDetailsUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.EndOfDayUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.LoanApplicationUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.DownloadDCRSUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Lendings.Transactions.UploadCollectionsUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.IncomeTaxTableDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.TaxTypeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Masterfiles.ListFormPOSUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.ListFormHRISUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CategoryDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ChartOfAccountDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.ClassificationDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.CustomerDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.ListFormInventoryUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.InventoryCancelReasonUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Payrolls.Masterfiles.ListFormPayrollUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ListFormProcurementUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Masterfiles.ProcurementDiscountDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.EmployeeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryGroupDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.InventoryTypeDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.LocationDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.PurchaseInventoryUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Masterfiles.CashierDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.ListFormSalesUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Masterfiles.ModeOfPaymentDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesPersonDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.StockDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.SupplierDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.MainAccountDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.SubClassificationDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Masterfiles.UnitDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.ProcurementCancelReasonUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Reports.POPayableReportUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.SOReceivableReportUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.EquipmentDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.CashierPeriodsUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.CheckIssuanceUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.JournalEntryUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.ReorderLevelUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.POSTransactionsUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.IncomeStatementUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.BalanceSheetUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.ReturnedItemsUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Reports.SalesInventoryUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockCardUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Reports.StockInventoryUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.SubsidiaryLedgerUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.TrialBalanceUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.WorkSheetUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Masterfiles.SalesDiscountDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.AddDiscountUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.FindCustomerListUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.FindModeOfPaymentUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PQStockTransactionDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesStockTransactionDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesCancelReasonUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Reports.StatementOfAccountUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.DatabaseBackupRestoreUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.TechnicalUpdateUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementTransactionDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CheckDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.CloseCashierPeriodUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.LookUpPriceQuotationUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpPurchaseOrderUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.LookUpPurchaseRequestUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpSalesOrderUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.LookUpStockTransferOutUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.OpenCasherPeriodUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.OtherFunctionsUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.PriceQuotationDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseOrderDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.PurchaseRequestStockDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptTransactionDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.RenderUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.ReturnedItemDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.Details.SalesOrderDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.SecurityUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockAdjustmentItemDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.Details.StockQtyUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockReceivingItemDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.Details.ProcurementStockTransactionDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferInItemDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockTransferOutItemDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.Details.StockWithdrawalItemDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.POSs.Transactions.POSOrderingUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.PriceQuotationUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseOrderUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Procurements.Transactions.PurchaseRequestUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.PurchaseJournalUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearOpeningUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.SalesJournalUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashDisbursementVoucherUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.SalesVoucherUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.JournalVoucherUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.LookUpAccountUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.CashReceiptVoucherUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.PurchaseVoucherUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.Details.VoucherDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.FinancialYearClosingUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.JournalEntrysUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashReceiptJournalUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.CashDisbursementJournalUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.GeneralJournalUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Masterfiles.BankDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Reports.AuditTrailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Reports.GeneralLedgerUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ReportViewerUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Generics.ListFormSystemUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.MDIJCSoftwares_VUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ChangeUserPasswordUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupListUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserGroupDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Systems.Masterfiles.UserDetailUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Accountings.Transactions.AccountingCancelReasonUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Sales.Transactions.SalesOrderUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockAdjustmentUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockReceivingUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferInUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockTransferOutUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.Inventorys.Transactions.StockWithdrawalUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Global.DateTimePickerUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Global.ErrorMessageUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Global.LookUpValueUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Global.MessageBoxInputUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Global.MessageBoxUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Global.SearchesUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Global.SearchUI.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.Properties.Resources.resources
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.csproj.GenerateResource.Cache
+D:\PERSONAL FILES\GitHub\test_00_v\Framework\obj\x86\Debug\JCSoftwares_V.ApplicationObjects.UserInterfaces.HRISs.Masterfiles.WorkScheduleDetailUI.resources
+D:\PERSONAL FILES\N.SITES\NSites_Core_v\Framework\Main\JCSoftwares_V.exe.config
+D:\PERSONAL FILES\N.SITES\NSites_Core_v\Framework\obj\x86\Debug\JCSoftwares_V.exe
+D:\PERSONAL FILES\N.SITES\NSites_Core_v\Framework\obj\x86\Debug\JCSoftwares_V.pdb

@@ -1,0 +1,929 @@
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.FormBase.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.SelectMonthUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.KeyboardUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.NumericKeyboardUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Global.YesOrNoUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialReceiptUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfFinancialPositionUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfComprehensiveIncomeUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.SubsidiaryVoucherDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.InvestmentUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.PlacementDispositionUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpInvestmentUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PlacementDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PlacementDispositionDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\office.dll
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\Microsoft.Vbe.Interop.dll
+C:\Users\jplarisan\Desktop\AccountingSystem\Framework\Main\office.xml
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\Main\office.dll
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Vbe.Interop.dll
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\Main\office.xml
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialReceiptUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\Main\office.dll
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Vbe.Interop.dll
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\Main\office.xml
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialReceiptUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\Main\office.dll
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Vbe.Interop.dll
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\Main\office.xml
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialReceiptUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.FormBase.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SelectMonthUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.KeyboardUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.NumericKeyboardUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.YesOrNoUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\Desktop\AFO - ACCOUNTING LATEST - VERSIONS\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SummaryOfChangesInRetainedEarningsUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+D:\JPlarisan Live Document\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\Desktop\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\Main\office.dll
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Vbe.Interop.dll
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\Main\office.xml
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\Softwares\AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.MMPRollOverUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.MMPWithdrawalUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\office.dll
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\Microsoft.Vbe.Interop.dll
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\office.xml
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MaturityDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.RollOverDetailUI.resources
+C:\Users\jplarisan\Desktop\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MaturityDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.RollOverDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.MMPRollOverUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.MMPWithdrawalUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+D:\Softwares\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan.RAFI0\Documents\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\Desktop\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\System.Net.Http.dll
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\System.Net.Http.Formatting.dll
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\Newtonsoft.Json.dll
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\System.Net.Http.xml
+C:\Users\jplarisan\OneDrive\Project\AFO-AccountingSystem - SQL SERVER\Framework\Main\System.Net.Http.Formatting.xml
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan.RAFI0\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - SQL SERVER\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\AccountingSystem.exe.config
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.exe
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.pdb
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\AccountingSystem.exe
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\AccountingSystem.pdb
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.AccountTypeDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BuildingAndCondoDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ChartOfAccountDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ClassificationDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CustomerDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.FurnitureAndFixtureDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.InvestmentDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.IssuingCompanyDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LandDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MoneyMarketPlacementDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SupplierDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MainAccountDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.OwnerDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SubClassificationDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TransportationDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.InvestmentReportUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.IncomeStatementUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.BalanceSheetUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfChangesInEquityUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.SubsidiaryLedgerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.StatementOfRetainedEarningsUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.TrialBalanceUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.WorkSheetUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.AccountPayableJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearOpeningUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.DeclarationOfDividendJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CheckVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DividendVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.JournalVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LookUpAccountUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.ReceiptVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayableVoucherUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.Details.VoucherDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.FinancialYearClosingUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.JournalEntryUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CashReceiptJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.CheckDisbursementJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.GeneralJournalUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.AuditTrailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.GeneralLedgerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Reports.ReportViewerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.MDIAccountingSystemUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.ApplicationObjects.UserInterfaces.Transactions.ReasonUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.Global.DateTimePickerUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.Global.LookUpValueUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxInputUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.Global.MessageBoxUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.Global.SearchesUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.Global.SearchUI.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.Properties.Resources.resources
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.csproj.GenerateResource.Cache
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\System.Net.Http.dll
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\System.Net.Http.Formatting.dll
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\Newtonsoft.Json.dll
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\System.Net.Http.xml
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\Main\System.Net.Http.Formatting.xml
+C:\Users\jplarisan\OneDrive - rafi.local\PROJECT\AFO-AccountingSystem - V\Framework\obj\x86\Debug\AccountingSystem.csprojResolveAssemblyReference.cache

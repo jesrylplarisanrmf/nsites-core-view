@@ -1,0 +1,18 @@
+-- format
+-- [text to recognize] | [text to display or execute] | [is text a command?]
+
+-- simple text --
+close|close|false
+master files|master files|false
+employee|employee|false
+payroll group|payroll group|false
+project|project|false
+company|company|false
+location|position|false
+position|position|false
+department|department|false
+loan type|loan type|false
+bank|bank|false
+holiday|holiday|false
+payroll period|payroll period|false
+work schedule|work schedule|false

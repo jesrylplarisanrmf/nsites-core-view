@@ -1,0 +1,967 @@
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.CompanyDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailRemoveUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PriceListUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SearchForPriceListUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\Main\PayrollSystem.exe
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\Main\PayrollSystem.pdb
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.ImportAttendanceUI.resources
+G:\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+G:\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+G:\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.ImportAttendanceUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ActionTakenDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.AdditionDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.BankDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ChartOfAccountDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.CompanyDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DeductionDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.NatureOfOffenseDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailRemoveUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PriceListUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SearchForPriceListUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\Main\PayrollSystem.exe
+C:\Users\Jesryl\Desktop\important files\PayrollSystem\Framework\Main\PayrollSystem.pdb
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ActionTakenDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.AdditionDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.BankDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ChartOfAccountDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DeductionDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.NatureOfOffenseDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmploymentStatusDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.RankDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.TaxStatusDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PayrollGroupDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.Details.PayrollPeriodDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.PayrollPeriodUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ShiftDetailUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.WorkScheduleUI.resources
+C:\Users\jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.Details.WorkScheduleDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.ManualInAndOutUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.DailyTimeRecordUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.ProcessAttendanceUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PhilHealthContributionTableDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.SSSContributionTableDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.WithholdingTaxTableDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.AttendanceProcessDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.ProcessDTRUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.DTRProcessDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.DTRProcessModuleUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.FixedDeductionUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.FixedEarningUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.LoanUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.OtherDeductionUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.OtherIncomeUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.PayrollProcessUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.FixedDeductionDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.FixedEarningDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.LoanDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.OtherDeductionDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.OtherIncomeDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.OBAuthorizationUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.HolidayAuthorizationUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.HolidayDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmployeeViolationUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.VoilationDeductionDetailUI.resources
+D:\Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+D:\Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe
+D:\Softwares\PayrollSystem\Framework\Main\PayrollSystem.pdb
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Softwares\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.TaxDependentDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.LeaveUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.LeaveDetailUI.resources
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\Jesryl\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\Main\PayrollSystem.exe
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\Main\PayrollSystem.pdb
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.DTRProcessDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.ProcessDTRUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.HolidayAuthorizationUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.HolidayDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.TaxDependentDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.VoilationDeductionDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.FixedDeductionDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.FixedEarningDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.LeaveDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.LoanDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.OtherDeductionDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.OtherIncomeDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.FixedDeductionUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.FixedEarningUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.LoanUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.OtherDeductionUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.OtherIncomeUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.PayrollProcessUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PhilHealthContributionTableDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ShiftDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.SSSContributionTableDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.WithholdingTaxTableDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.LeaveUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.Details.PayrollPeriodDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.Details.WorkScheduleDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.PayrollPeriodUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ActionTakenDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.AdditionDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.BankDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ChartOfAccountDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.CompanyDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DeductionDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmploymentStatusDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.NatureOfOffenseDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PayrollGroupDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.RankDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.TaxStatusDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.WorkScheduleUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailRemoveUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\japconcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmployeeListUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ProjectDetailUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.ImportDatabaseUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.DailyTimeRecordUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.OfficialBusinessAuthorizationUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.OvertimeAuthorizationUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.DailyTimeRecordDetailUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.HolidayAuthorizationDetailUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.OvertimeAuthorizationDetailUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.OfficialBusinessAuthorizationDetailUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.EmployeesAttendanceUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.DTRProcessedUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.EmployeesPayrollTransactionsUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PagibigContributionUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollExpensesUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SSSContributionUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.WithholdingTaxContributionUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PhilHealthContributionUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\Main\PayrollSystem.pdb
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.DailyTimeRecordUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.DailyTimeRecordDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.DTRProcessDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.HolidayAuthorizationDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.OfficialBusinessAuthorizationDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.OvertimeAuthorizationDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.DTRProcessedUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.Details.ProcessDTRUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.EmployeesAttendanceUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.HolidayAuthorizationUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.OfficialBusinessAuthorizationUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.OvertimeAuthorizationUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmployeeListUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.HolidayDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ProjectDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.TaxDependentDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.VoilationDeductionDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.FixedDeductionDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.FixedEarningDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.LeaveDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.LoanDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.OtherDeductionDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.OtherIncomeDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.FixedDeductionUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.FixedEarningUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.LoanUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.OtherDeductionUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.OtherIncomeUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.PayrollProcessUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PhilHealthContributionTableDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ShiftDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.SSSContributionTableDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.WithholdingTaxTableDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.LeaveUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.Details.PayrollPeriodDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.ImportDatabaseUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.Details.WorkScheduleDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.PayrollPeriodUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ActionTakenDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.AdditionDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.BankDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ChartOfAccountDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.CompanyDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DeductionDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.DepartmentDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmployeeDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.EmploymentStatusDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.LocationDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.NatureOfOffenseDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PayrollGroupDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.PositionDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.RankDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.TaxStatusDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PrePayroll.WorkScheduleUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailRemoveUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.EmployeesPayrollTransactionsUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PagibigContributionUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollExpensesUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PhilHealthContributionUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SSSContributionUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.WithholdingTaxContributionUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.FormUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFile.ListFormUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.TimeKeepingEmployeeNoUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.TimeKeepingBiometricsIdNoUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.TimeKeepingBiometricsIdNoUI.resources
+C:\Users\admin\Desktop\Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.DTR.TimeKeepingEmployeeNoUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.EarningDetailsUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.PayrollProcesses.Details.DeductionDetailsUI.resources
+C:\Users\JAPConcept\Desktop\PayrollSystemAdvance\Framework\Main\PayrollSystem.exe.config
+C:\Users\JAPConcept\Desktop\PayrollSystemAdvance\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\JAPConcept\Desktop\PayrollSystemAdvance\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PhilHealthContributionTableDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SSSContributionTableDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WithholdingTaxTableDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DailyTimeRecordUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DailyTimeRecordDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CreateMonthlyWorkScheduleUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MonthlyWorkScheduleDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.HolidayDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.MonthlyWorkScheduleUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ProjectDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TaxDependentDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WorkScheduleDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DeductionsUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.EarningsUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ProcessSemiMonthlyPayrollUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.DepartmentDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmploymentStatusDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PositionDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.DTRDiscrepancyUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.EmployeesPayrollTransactionsUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PagibigContributionUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollExpensesUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PhilHealthContributionUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SSSContributionUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.WithholdingTaxContributionUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SelectMonthUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.YesOrNoUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\Main\PayrollSystem.pdb
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedEarningDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherEarningDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherDeductionDetailUI.resources
+C:\Users\JAP CBS\Desktop\JAP Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedDeductionDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\Main\PayrollSystem.exe
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\Main\PayrollSystem.pdb
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PhilHealthContributionTableDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SSSContributionTableDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WithholdingTaxTableDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DailyTimeRecordUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateMonthlyPayrollUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateSemiMonthlyPayrollUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateWeeklyPayrollUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherDeductionDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherEarningDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.SemiMonthlyPayrollDeductionDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.SemiMonthlyPayrollEarningDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.MonthlyPayrollUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CreateMonthlyWorkScheduleUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MonthlyWorkScheduleDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.HolidayDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.MonthlyWorkScheduleUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ProjectDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TaxDependentDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WorkScheduleDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedDeductionDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedEarningDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DeductionsUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.EarningsUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.SemiMonthlyPayrollUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.DepartmentDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmploymentStatusDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PositionDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.EmployeesPayrollTransactionsUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PagibigContributionUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PhilHealthContributionUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SSSContributionUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.WithholdingTaxContributionUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.WeeklyPayrollUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SelectMonthUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.YesOrNoUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.CashAdvanceUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvanceDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\Main\PayrollSystem.exe
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\Main\PayrollSystem.pdb
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PhilHealthContributionTableDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SSSContributionTableDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WithholdingTaxTableDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.CashAdvanceUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DailyTimeRecordUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvanceDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateMonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateSemiMonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateWeeklyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.DailyTimeRecordDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.SemiMonthlyPayrollDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.SemiMonthlyPayrollEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.MonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CreateMonthlyWorkScheduleUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MonthlyWorkScheduleDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.HolidayDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.MonthlyWorkScheduleUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ProjectDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TaxDependentDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WorkScheduleDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DeductionsUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.EarningsUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.SemiMonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.DepartmentDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmploymentStatusDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PositionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.DTRDiscrepancyUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.EmployeesPayrollTransactionsUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PagibigContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollExpensesUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PhilHealthContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SSSContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.WithholdingTaxContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.WeeklyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SelectMonthUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.YesOrNoUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MonthlyPayrollDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MonthlyPayrollEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.WeeklyPayrollDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.WeeklyPayrollEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\Main\PayrollSystem.exe
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\Main\PayrollSystem.pdb
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PhilHealthContributionTableDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SSSContributionTableDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WithholdingTaxTableDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.DailyTimeRecordSummaryUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.CashAdvanceUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DailyTimeRecordUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvanceDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateMonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateSemiMonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreateWeeklyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MonthlyPayrollDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MonthlyPayrollEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OtherEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.SemiMonthlyPayrollDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.SemiMonthlyPayrollEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.WeeklyPayrollDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.WeeklyPayrollEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.MonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CreateMonthlyWorkScheduleUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MonthlyWorkScheduleDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.HolidayDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.MonthlyWorkScheduleUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.ProjectDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TaxDependentDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WorkScheduleDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedDeductionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedEarningDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DeductionsUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.EarningsUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.SemiMonthlyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.DepartmentDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmploymentStatusDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PositionDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.EmployeesPayrollTransactionsUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PagibigContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PhilHealthContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.SSSContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.WithholdingTaxContributionUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.WeeklyPayrollUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SelectMonthUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.YesOrNoUI.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Google Drive\Software Backup\Running Softwares\Private\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.DailyTimeRecordSummaryUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MonthlyPayrollDeductionDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.MonthlyPayrollEarningDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.WeeklyPayrollDeductionDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.WeeklyPayrollEarningDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LoanDetailUI.resources
+D:\SOFTWARES\Private Softwares\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LoanUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PhilHealthContributionTableDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SSSContributionTableDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WithholdingTaxTableDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.DailyTimeRecordSummaryUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.CashAdvanceUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DailyTimeRecordUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvanceDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CreateMonthlyWorkScheduleUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MonthlyWorkScheduleDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.HolidayDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.MonthlyWorkScheduleUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TaxDependentDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WorkScheduleDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedDeductionDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedEarningDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.DepartmentDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmploymentStatusDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PositionDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SelectMonthUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.YesOrNoUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CostCenterDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\Main\PayrollSystem.exe
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\Main\PayrollSystem.pdb
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PhilHealthContributionTableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SSSContributionTableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WithholdingTaxTableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.DailyTimeRecordSummaryUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.CashAdvanceUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DailyTimeRecordUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvanceDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CreateMonthlyWorkScheduleUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MonthlyWorkScheduleDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.HolidayDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.MonthlyWorkScheduleUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CostCenterDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TaxDependentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WorkScheduleDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedDeductionDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedEarningDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.DepartmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmploymentStatusDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PositionDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SelectMonthUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.YesOrNoUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.FixedDeductionsUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreatePayrollUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayrollDeductionDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayrollEarningDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.PayrollUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.FixedEarningsUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvancePaymentUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.AdjustmentUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.AdjustmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AlphaListPayrollUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ContributionsReportUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollHistoryUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ContributionReportPreviewUI.resources
+D:\JPlarisan Live Document\Desktop\Personal Files\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AlphaListPayrollPreviewUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AlphaListPayrollPreviewUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AlphaListPayrollUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ContributionReportPreviewUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.AdjustmentUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.AdjustmentDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvancePaymentUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreatePayrollUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayrollDeductionDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayrollEarningDetailUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.PayrollUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.FixedDeductionsUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.FixedEarningsUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollHistoryUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ContributionsReportUI.resources
+D:\SOFTWARES\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.CashAdvancePaymentReportUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\Main\PayrollSystem.exe.config
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.pdb
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\Main\PayrollSystem.exe
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\Main\PayrollSystem.pdb
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PhilHealthContributionTableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.SSSContributionTableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WithholdingTaxTableDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AlphaListPayrollPreviewUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AlphaListPayrollUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.CashAdvancePaymentReportUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ContributionReportPreviewUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.DailyTimeRecordSummaryUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.AdjustmentUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.CashAdvanceUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.DailyTimeRecordUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.AdjustmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvanceDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CashAdvancePaymentUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.CreatePayrollUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.HolidayEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayrollDeductionDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.PayrollEarningDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OfficialBusinessEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.OvertimeEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.TimeLogUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.HolidayEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.PayrollUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OfficialBusinessEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.OvertimeEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CreateMonthlyWorkScheduleUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.MonthlyWorkScheduleDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.EmployeeListUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.HolidayDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.MonthlyWorkScheduleUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CostCenterDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.TaxDependentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.WorkScheduleDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedDeductionDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.FixedEarningDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.LeaveEntryDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.FixedDeductionsUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.FixedEarningsUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.LeaveEntryUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.ImportDataFromBiometricsUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.BankDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.CompanyDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.DepartmentDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmployeeDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.EmploymentStatusDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.LocationDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.Details.PositionDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.AuditTrailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollHistoryUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.PayrollReportUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ReportViewerUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.ContributionsReportUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.SoftwareLicenseUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.LogInUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.FormUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MasterFiles.ListFormUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.MDIPayrollSystemUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.BackupRestoreDataUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ChangePasswordUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.CheckTableUpdateUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.ScreenSaverUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.SystemConfigurationUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UnlockScreenUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupListUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserGroupUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Systems.UserDetailUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.FormBase.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SelectMonthUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SwipeCardUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.DateTimePickerUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.KeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.LookUpValueUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxInputUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.MessageBoxUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.NumericKeyboardUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchesUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.SearchUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Global.YesOrNoUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Transactions.Details.AddEmployeePayrollUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\obj\x86\Debug\PayrollSystem.ApplicationObjects.UserInterfaces.Report.GenerateBankATMFileUI.resources
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\Main\office.dll
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\Main\Microsoft.Office.Interop.SmartTag.dll
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\Main\Microsoft.Vbe.Interop.dll
+D:\JPlarisan Live Document\Desktop\Projects\PayrollSystem\Framework\Main\office.xml
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\Main\PayrollSystem.exe.config
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\PayrollSystem.exe
+D:\JPlarisan Live Document\Desktop\Projects\InvestmentManagementSystem\Framework\obj\x86\Debug\PayrollSystem.pdb

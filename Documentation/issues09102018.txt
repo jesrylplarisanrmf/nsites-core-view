@@ -1,0 +1,8 @@
+1. OK AS PER CHECK-Edit2x...journal voucher - mwala ang 2nd-credit...
+2. OK - Check Amount must the same with Cash in Bank in the Accounts.
+3. OK - Sales Person per Date Range dili mugawas..
+4. OK - Stock Card in not functioning... - specify date range not current date...finalized date is the reference.
+5. OK - Dili Cashier pero maka.render
+6. Customer name must be in the new order...
+7. OK - Sales order must follow to base price..
+8. CANNOT BE DONE - Combo box must search like %aa%..
